@@ -1,6 +1,4 @@
 # Simple RPC | CLI
-<img src="https://img.shields.io/github/downloads/noxygalaxy/simple-cli-rpc/total?style=for-the-badge" style="text-align: center;"></img>
-<img src="https://img.shields.io/github/created-at/noxygalaxy/simple-cli-rpc?style=for-the-badge" style="text-align: center;"></img>
 
 Everything is customizable! :3
 
