@@ -7,6 +7,10 @@ Everything is customizable! :3
 
 <img src="./assets/example.png" alt="example">
 
+## Simple Installation
+1. [Download Compiled code](https://github.com/noxygalaxy/simple-cli-rpc/releases/download/v1.0.3/simple-cli-rpc.exe)
+2. Follow Default Installation from step 3.
+
 ## Installation
 1. Install [Python 3.X](https://www.python.org/) if you haven't already.
 2. Install source code and run `install.bat` ( it's gonna download required libraries! )
